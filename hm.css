@@ -1,0 +1,47 @@
+body {
+  background-color: aliceblue;
+  margin: 0%;
+}
+nav {
+  background-color: aquamarine;
+  position: fixed;
+  display: flex;
+  width: 100%;
+  padding-top: 0.4rem;
+  top: 0;
+  padding-bottom: 0.35rem;
+  padding-left: 0.9rem;
+  gap: 1.5rem;
+  border-bottom: 0.15rem solid darkblue;
+}
+.navbar {
+  background-color: aliceblue;
+  border: 0.1rem solid darkblue;
+  padding: 0.5rem;
+  padding-right: 0.95rem;
+  padding-left: 0.95rem;
+}
+.spacing {
+  margin-top: 5.65rem;
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+}
+h1 {
+  background-color: lightseagreen;
+  display: block;
+  padding: 2.55rem 101.75rem 2.55rem 1.3rem;
+  border: 0.2rem solid black;
+  color: aliceblue;
+}
+.saas {
+  background-color: lightgoldenrodyellow;
+  display: block;
+  border: 0.2rem solid black;
+  color: black;
+}
+.emt {
+  background-color: aliceblue;
+  display: block;
+  border: 0.2rem solid lightslategrey;
+  margin: 2rem;
+}

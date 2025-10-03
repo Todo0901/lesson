@@ -1,0 +1,22 @@
+body {
+  background-color: aliceblue;
+  margin: 0%;
+}
+nav {
+  background-color: aquamarine;
+  position: fixed;
+  display: flex;
+  width: 100%;
+  padding-top: 0.4rem;
+  padding-bottom: 0.35rem;
+  padding-left: 0.9rem;
+  gap: 1.5rem;
+  border-bottom: 0.15rem solid darkblue;
+}
+.navbar {
+  background-color: aliceblue;
+  border: 0.1rem solid darkblue;
+  padding: 0.5rem;
+  padding-right: 0.95rem;
+  padding-left: 0.95rem;
+}
